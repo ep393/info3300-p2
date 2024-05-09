@@ -1,4 +1,7 @@
 # INFO 3300 Project 2
+
+Link: https://ep393.github.io/info3300-p2/
+
 Introduction
 Project Aim: Interactive data visualization using the "Daily Temperature of Major Cities" dataset from Kaggle.
 Purpose: To present the continuous rise in Earth's average temperature as a narrative on global warming.
